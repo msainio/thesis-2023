@@ -1,4 +1,4 @@
-This repository contains NLI data and code for my Bachelor's thesis.
+This repository contains my Bachelor's thesis, as well as the data and code used in the study.
 
 The 'MNLI-NOUN-int.tsv' data was created by modifying the 'CorruptTest/MNLI-NOUN.tsv' data, which was copied from
 'https://github.com/Helsinki-NLP/nli-data-sanity-check'. The data was modified by changing the alphabetical gold labels
